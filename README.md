@@ -7,3 +7,6 @@ I am documenting all the DSA Questions I solve in this Repository.
  - Questions are listed according to Different Algorithms and Difficulty Level.
  - Link to the Question and my Solution are also Provided.
 
+## Index
+
+1. [Binary Search](https://github.com/aviralsharma07/DSA-Questions/tree/main/Binary%20Search)

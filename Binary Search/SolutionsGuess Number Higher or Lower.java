@@ -1,6 +1,5 @@
 ## Solution
 
-java
 public class Solution extends GuessGame {
     public int guessNumber(int n) {
         int start = 0;

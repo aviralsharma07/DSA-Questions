@@ -11,3 +11,4 @@
 |[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[7](https://github.com/aviralsharma07/DSA-Questions/blob/c95283605da1564d1b8241c0a570c23581b0b43a/Binary%20Search/Solutions/sqrt(x).java)|
 |[Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)|[8](https://github.com/aviralsharma07/DSA-Questions/blob/7f6f62a083751c58f4f755f5c1afbaab009d4362/Binary%20Search/Solutions/Check%20If%20N%20and%20Its%20Double%20Exist.java)|
 |[Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)|[9](https://github.com/aviralsharma07/DSA-Questions/blob/6b417105dfd047b8ae23417e121a9994a10852c6/Binary%20Search/Solutions/Fair%20Candy%20Swap.java)|
+|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[10](https://github.com/aviralsharma07/DSA-Questions/blob/f4d08ab6f9aaf2a0dee748a2b50fe75a253da328/Binary%20Search/Solutions/Intersection%20of%20Two%20Arrays.java)|

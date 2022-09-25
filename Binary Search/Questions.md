@@ -15,3 +15,4 @@
 |[ Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[11](https://github.com/aviralsharma07/DSA-Questions/blob/e4ac3a320f3f62892f754fff6eb615821ec88f8e/Binary%20Search/Solutions/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.java)|
 |[Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)|[12](https://github.com/aviralsharma07/DSA-Questions/blob/4dad7bc99fe24b7d9584c109fc0e46c3082c1361/Binary%20Search/Solutions/Single%20Element%20in%20a%20Sorted%20Array.java)|
 |[Search in Roated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[13](https://github.com/aviralsharma07/DSA-Questions/blob/c54527ba5fb4bb6212f29c24c28188e83e2c1655/Binary%20Search/Solutions/Search%20in%20a%20Rotated%20%20Sorted%20Array.java)|
+|||
